@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f8f8f8;
+}
+
+header {
+    background: #8b0000;
+    color: white;
+    padding: 15px;
+}
+
+.buttons button {
+    margin: 5px;
+    padding: 10px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.item {
+    background: white;
+    padding: 15px;
+    width: 200px;
+    border-radius: 8px;
+}
